@@ -1,3 +1,4 @@
+# SimpleMake
 Makeis a useful utility which builds executable programs or libraries from source files based on an inputmakefilewhich includes information on how to build targets (e.g.  executable programs or libraries).  The makefile specifies adependency graph that governs how targets should be built. 
 This is a simple version of Make(make4061) which 
 1) reads the makefile, 
